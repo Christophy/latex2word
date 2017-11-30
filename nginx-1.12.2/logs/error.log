@@ -1,0 +1,1 @@
+2017/11/30 15:11:54 [error] 14860#5044: *62 CreateFile() "C:\Users\yry\Desktop\converter\nginx-1.12.2/./[object Object]" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "POST /[object%20Object] HTTP/1.1", host: "127.0.0.1:8081", referrer: "http://127.0.0.1:8081/"
